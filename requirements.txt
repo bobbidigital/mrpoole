@@ -1,0 +1,10 @@
+Jinja2==2.7.3
+MarkupSafe==0.23
+argparse==1.2.1
+ndg-httpsclient==0.4.0
+pyOpenSSL==0.15.1
+pyasn1==0.1.7
+requests==2.6.0
+sh==1.11
+six==1.9.0
+wsgiref==0.1.2
